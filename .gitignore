@@ -1,0 +1,11 @@
+
+#  big files and dynamic files . no need to send them to git 
+
+/cover
+/song
+/song 2
+/test
+/cover2
+song.zip
+cover.zip
+
